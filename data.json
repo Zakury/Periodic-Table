@@ -1,0 +1,592 @@
+[
+    {
+        "name": "hydrogen",
+        "symbol": "h",
+        "series": "nonmetal"
+    },
+    {
+        "name": "helium",
+        "symbol": "he",
+        "series": "noble-gas"
+    },
+    {
+        "name": "lithium",
+        "symbol": "li",
+        "series": "alkali-metal"
+    },
+    {
+        "name": "beryllium",
+        "symbol": "be",
+        "series": "alkaline-earth-metal"
+    },
+    {
+        "name": "boron",
+        "symbol": "b",
+        "series": "metalloid"
+    },
+    {
+        "name": "carbon",
+        "symbol": "c",
+        "series": "nonmetal"
+    },
+    {
+        "name": "nitrogen",
+        "symbol": "n",
+        "series": "nonmetal"
+    },
+    {
+        "name": "oxygen",
+        "symbol": "o",
+        "series": "chalcogen"
+    },
+    {
+        "name": "fluorine",
+        "symbol": "f",
+        "series": "halogen"
+    },
+    {
+        "name": "neon",
+        "symbol": "ne",
+        "series": "noble-gas"
+    },
+    {
+        "name": "sodium",
+        "symbol": "na",
+        "series": "alkali-metal"
+    },
+    {
+        "name": "magnesium",
+        "symbol": "mg",
+        "series": "alkaline-earth-metal"
+    },
+    {
+        "name": "aluminum",
+        "symbol": "al",
+        "series": "metal"
+    },
+    {
+        "name": "silicon",
+        "symbol": "si",
+        "series": "metalloid"
+    },
+    {
+        "name": "phosphorus",
+        "symbol": "p",
+        "series": "nonmetal"
+    },
+    {
+        "name": "sulfur",
+        "symbol": "s",
+        "series": "chalcogen"
+    },
+    {
+        "name": "chlorine",
+        "symbol": "cl",
+        "series": "halogen"
+    },
+    {
+        "name": "argon",
+        "symbol": "ar",
+        "series": "noble-gas"
+    },
+    {
+        "name": "potassium",
+        "symbol": "k",
+        "series": "alkali-metal"
+    },
+    {
+        "name": "calcium",
+        "symbol": "ca",
+        "series": "alkaline-earth-metal"
+    },
+    {
+        "name": "scandium",
+        "symbol": "sc",
+        "series": "transition-metal"
+    },
+    {
+        "name": "titanium",
+        "symbol": "ti",
+        "series": "transition-metal"
+    },
+    {
+        "name": "vanadium",
+        "symbol": "v",
+        "series": "transition-metal"
+    },
+    {
+        "name": "chromium",
+        "symbol": "cr",
+        "series": "transition-metal"
+    },
+    {
+        "name": "manganese",
+        "symbol": "mn",
+        "series": "transition-metal"
+    },
+    {
+        "name": "iron",
+        "symbol": "fe",
+        "series": "transition-metal"
+    },
+    {
+        "name": "cobalt",
+        "symbol": "co",
+        "series": "transition-metal"
+    },
+    {
+        "name": "nickel",
+        "symbol": "ni",
+        "series": "transition-metal"
+    },
+    {
+        "name": "copper",
+        "symbol": "cu",
+        "series": "transition-metal"
+    },
+    {
+        "name": "zinc",
+        "symbol": "zn",
+        "series": "transition-metal"
+    },
+    {
+        "name": "gallium",
+        "symbol": "ga",
+        "series": "metal"
+    },
+    {
+        "name": "germanium",
+        "symbol": "ge",
+        "series": "metalloid"
+    },
+    {
+        "name": "arsenic",
+        "symbol": "as",
+        "series": "metalloid"
+    },
+    {
+        "name": "selenium",
+        "symbol": "se",
+        "series": "chalcogen"
+    },
+    {
+        "name": "bromine",
+        "symbol": "br",
+        "series": "halogen"
+    },
+    {
+        "name": "krypton",
+        "symbol": "kr",
+        "series": "noble-gas"
+    },
+    {
+        "name": "rubidium",
+        "symbol": "rb",
+        "series": "alkali-metal"
+    },
+    {
+        "name": "strontium",
+        "symbol": "sr",
+        "series": "alkaline-earth-metal"
+    },
+    {
+        "name": "yttrium",
+        "symbol": "y",
+        "series": "transition-metal"
+    },
+    {
+        "name": "zirconium",
+        "symbol": "zr",
+        "series": "transition-metal"
+    },
+    {
+        "name": "niobium",
+        "symbol": "nb",
+        "series": "transition-metal"
+    },
+    {
+        "name": "molybdenum",
+        "symbol": "mo",
+        "series": "transition-metal"
+    },
+    {
+        "name": "technetium",
+        "symbol": "tc",
+        "series": "transition-metal"
+    },
+    {
+        "name": "ruthenium",
+        "symbol": "ru",
+        "series": "transition-metal"
+    },
+    {
+        "name": "rhodium",
+        "symbol": "rh",
+        "series": "transition-metal"
+    },
+    {
+        "name": "palladium",
+        "symbol": "pd",
+        "series": "transition-metal"
+    },
+    {
+        "name": "silver",
+        "symbol": "ag",
+        "series": "transition-metal"
+    },
+    {
+        "name": "cadmium",
+        "symbol": "cd",
+        "series": "transition-metal"
+    },
+    {
+        "name": "indium",
+        "symbol": "in",
+        "series": "metal"
+    },
+    {
+        "name": "tin",
+        "symbol": "sn",
+        "series": "metal"
+    },
+    {
+        "name": "antimony",
+        "symbol": "sb",
+        "series": "metalloid"
+    },
+    {
+        "name": "tellurium",
+        "symbol": "te",
+        "series": "chalcogen"
+    },
+    {
+        "name": "iodine",
+        "symbol": "i",
+        "series": "halogen"
+    },
+    {
+        "name": "xenon",
+        "symbol": "xe",
+        "series": "noble-gas"
+    },
+    {
+        "name": "cesium",
+        "symbol": "cs",
+        "series": "alkali-metal"
+    },
+    {
+        "name": "barium",
+        "symbol": "ba",
+        "series": "alkaline-earth-metal"
+    },
+    {
+        "name": "lanthanum",
+        "symbol": "la",
+        "series": "lanthanide"
+    },
+    {
+        "name": "cerium",
+        "symbol": "ce",
+        "series": "lanthanide"
+    },
+    {
+        "name": "praseodymium",
+        "symbol": "pr",
+        "series": "lanthanide"
+    },
+    {
+        "name": "neodymium",
+        "symbol": "nd",
+        "series": "lanthanide"
+    },
+    {
+        "name": "promethium",
+        "symbol": "pm",
+        "series": "lanthanide"
+    },
+    {
+        "name": "samarium",
+        "symbol": "sm",
+        "series": "lanthanide"
+    },
+    {
+        "name": "europium",
+        "symbol": "eu",
+        "series": "lanthanide"
+    },
+    {
+        "name": "gadolinium",
+        "symbol": "gd",
+        "series": "lanthanide"
+    },
+    {
+        "name": "terbium",
+        "symbol": "tb",
+        "series": "lanthanide"
+    },
+    {
+        "name": "dysprosium",
+        "symbol": "dy",
+        "series": "lanthanide"
+    },
+    {
+        "name": "holmium",
+        "symbol": "ho",
+        "series": "lanthanide"
+    },
+    {
+        "name": "erbium",
+        "symbol": "er",
+        "series": "lanthanide"
+    },
+    {
+        "name": "thulium",
+        "symbol": "tm",
+        "series": "lanthanide"
+    },
+    {
+        "name": "ytterbium",
+        "symbol": "yb",
+        "series": "lanthanide"
+    },
+    {
+        "name": "lutetium",
+        "symbol": "lu",
+        "series": "transition-metal"
+    },
+    {
+        "name": "hafnium",
+        "symbol": "hf",
+        "series": "transition-metal"
+    },
+    {
+        "name": "tantalum",
+        "symbol": "ta",
+        "series": "transition-metal"
+    },
+    {
+        "name": "tungsten",
+        "symbol": "w",
+        "series": "transition-metal"
+    },
+    {
+        "name": "rhenium",
+        "symbol": "re",
+        "series": "transition-metal"
+    },
+    {
+        "name": "osmium",
+        "symbol": "os",
+        "series": "transition-metal"
+    },
+    {
+        "name": "iridium",
+        "symbol": "ir",
+        "series": "transition-metal"
+    },
+    {
+        "name": "platinum",
+        "symbol": "pt",
+        "series": "transition-metal"
+    },
+    {
+        "name": "gold",
+        "symbol": "au",
+        "series": "transition-metal"
+    },
+    {
+        "name": "mercury",
+        "symbol": "hg",
+        "series": "transition-metal"
+    },
+    {
+        "name": "thallium",
+        "symbol": "tl",
+        "series": "metal"
+    },
+    {
+        "name": "lead",
+        "symbol": "pb",
+        "series": "metal"
+    },
+    {
+        "name": "bismuth",
+        "symbol": "bi",
+        "series": "metal"
+    },
+    {
+        "name": "polonium",
+        "symbol": "po",
+        "series": "chalcogen"
+    },
+    {
+        "name": "astatine",
+        "symbol": "at",
+        "series": "halogen"
+    },
+    {
+        "name": "radon",
+        "symbol": "rn",
+        "series": "noble-gas"
+    },
+    {
+        "name": "francium",
+        "symbol": "fr",
+        "series": "alkali-metal"
+    },
+    {
+        "name": "radium",
+        "symbol": "ra",
+        "series": "alkaline-earth-metal"
+    },
+    {
+        "name": "actinium",
+        "symbol": "ac",
+        "series": "actinide"
+    },
+    {
+        "name": "thorium",
+        "symbol": "th",
+        "series": "actinide"
+    },
+    {
+        "name": "protactinium",
+        "symbol": "pa",
+        "series": "actinide"
+    },
+    {
+        "name": "uranium",
+        "symbol": "u",
+        "series": "actinide"
+    },
+    {
+        "name": "neptunium",
+        "symbol": "np",
+        "series": "actinide"
+    },
+    {
+        "name": "plutonium",
+        "symbol": "pu",
+        "series": "actinide"
+    },
+    {
+        "name": "americium",
+        "symbol": "am",
+        "series": "actinide"
+    },
+    {
+        "name": "curium",
+        "symbol": "cm",
+        "series": "actinide"
+    },
+    {
+        "name": "berkelium",
+        "symbol": "bk",
+        "series": "actinide"
+    },
+    {
+        "name": "californium",
+        "symbol": "cf",
+        "series": "actinide"
+    },
+    {
+        "name": "einsteinium",
+        "symbol": "es",
+        "series": "actinide"
+    },
+    {
+        "name": "fermium",
+        "symbol": "fm",
+        "series": "actinide"
+    },
+    {
+        "name": "mendelevium",
+        "symbol": "md",
+        "series": "actinide"
+    },
+    {
+        "name": "nobelium",
+        "symbol": "no",
+        "series": "actinide"
+    },
+    {
+        "name": "lawrencium",
+        "symbol": "lr",
+        "series": "transition-metal"
+    },
+    {
+        "name": "rutherfordium",
+        "symbol": "rf",
+        "series": "transition-metal"
+    },
+    {
+        "name": "dubnium",
+        "symbol": "db",
+        "series": "transition-metal"
+    },
+    {
+        "name": "seaborgium",
+        "symbol": "sg",
+        "series": "transition-metal"
+    },
+    {
+        "name": "bohrium",
+        "symbol": "bh",
+        "series": "transition-metal"
+    },
+    {
+        "name": "hassium",
+        "symbol": "hs",
+        "series": "transition-metal"
+    },
+    {
+        "name": "meitnerium",
+        "symbol": "mt",
+        "series": "transition-metal"
+    },
+    {
+        "name": "darmstadtium",
+        "symbol": "ds",
+        "series": "transition-metal"
+    },
+    {
+        "name": "roentgenium",
+        "symbol": "rg",
+        "series": "transition-metal"
+    },
+    {
+        "name": "copernicium",
+        "symbol": "cn",
+        "series": "transition-metal"
+    },
+    {
+        "name": "nihonium",
+        "symbol": "nh",
+        "series": "metal"
+    },
+    {
+        "name": "flerovium",
+        "symbol": "fl",
+        "series": "metal"
+    },
+    {
+        "name": "moscovium",
+        "symbol": "mc",
+        "series": "metal"
+    },
+    {
+        "name": "livermorium",
+        "symbol": "lv",
+        "series": "metal"
+    },
+    {
+        "name": "tennessine",
+        "symbol": "ts",
+        "series": "halogen"
+    },
+    {
+        "name": "oganesson",
+        "symbol": "og",
+        "series": "noble-gas"
+    }
+]
