@@ -6,6 +6,29 @@ body {
     display: flex;
     flex-direction: column; 
     justify-content: center;
+    font-family: "Heebo", sans-serif;
+}
+
+/* Rough styling for modal. */
+/* TODO: Make better. */
+.modal.open {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    padding: 95px;
+    box-sizing: border-box;
+    z-index: 1;
+}
+
+h1 {
+    margin: 0;
+    text-transform: capitalize;
+}
+
+.modal.open .interior {
+    width: 100%;
+    height: 100%;
+    background: #eee;
 }
 
 /* Grid. */
@@ -24,8 +47,6 @@ body {
     width: 55px; height: 55px;
     
     text-align: center; line-height: 55px;
-    
-    font-family: "Heebo", sans-serif;
     font-size: 18px;
     
     cursor: pointer;
